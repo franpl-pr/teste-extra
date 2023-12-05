@@ -1,0 +1,19 @@
+.Estilo-botao {
+    border-radius: 20px;
+    transition: 1s;
+    /*tempo de transição*/
+    cursor: pointer;
+
+}
+
+.Estilo-botao:hover {
+    border: 1px solid;
+}
+
+.botao-verde {
+    background-color: green;
+}
+
+.botao-azul {
+    background-color: blue;
+}
